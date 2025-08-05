@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hello 👋</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 -->
 ###
 
-<h2 align="left">Feel free to connect with me!</h2>
+<h2 align="left">💬 Feel free to connect with me!</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">💻 I code with</h2>
 
 ###
 <div align="left">
@@ -60,4 +60,14 @@
 </div>
 
 ###
+
+<h2 align="left">🌐 Personal Website!</h2>
+
+###
+
+<div>
+  <p>
+    Visit my portfolio at <a href="https://www.yourwebsite.com" target="_blank">carsonhom.com</a>
+  </p>
+</div>
 
