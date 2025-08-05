@@ -5,13 +5,13 @@
 <p align="left">My name is Carson and I'm a 4th year CS student at York University, from Toronto!</p>
 
 ###
-
+<!--
 <h2 align="left">About me</h2>
 
 ###
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
+-->
 ###
 
 <div align="left">
