@@ -12,17 +12,6 @@
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 -->
-###
-
-<h2 align="left">💬 Feel free to connect with me!</h2>
-
-###
-
-<div>
-  <a href="https://www.linkedin.com/in/carson-hom/" target="_blank" style="margin-right: 8px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="LinkedIn logo" />
-  </a>
-</div>
 
 ###
 
@@ -69,5 +58,16 @@
   <p>
     Visit my portfolio at <a href="https://www.carsonhom.com/" target="_blank">carsonhom.com</a>
   </p>
+</div>
+###
+
+<h2 align="left">💬 Feel free to connect with me!</h2>
+
+###
+
+<div>
+  <a href="https://www.linkedin.com/in/carson-hom/" target="_blank" style="margin-right: 8px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="LinkedIn logo" />
+  </a>
 </div>
 
