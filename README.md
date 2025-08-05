@@ -15,9 +15,11 @@
 ###
 
 <div align="left">
+  <p> Feel free to connect with me on LinkedIn!</p>
   <a href="https://www.linkedin.com/in/carson-hom/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  
 </div>
 
 ###
