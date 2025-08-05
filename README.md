@@ -67,7 +67,7 @@
 
 <div>
   <p>
-    Visit my portfolio at <a href="https://www.yourwebsite.com" target="_blank">carsonhom.com</a>
+    Visit my portfolio at <a href="=https://www.carsonhom.com/)=" target="_blank">carsonhom.com</a>
   </p>
 </div>
 
