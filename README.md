@@ -16,10 +16,10 @@
 
 <div>
   <p align="left">
-    Feel free to connect with me!
     <a href="https://www.linkedin.com/in/carson-hom/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="LinkedIn logo" />
     </a>
+        Feel free to connect with me!
   </p>
 </div>
 
