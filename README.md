@@ -15,7 +15,7 @@
 ###
 
 <div>
-  <p align="left">
+  <p>
     <a href="https://www.linkedin.com/in/carson-hom/" target="_blank" style="margin-right: 8px;">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="LinkedIn logo" />
     </a>
